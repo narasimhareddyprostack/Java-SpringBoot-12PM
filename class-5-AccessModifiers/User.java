@@ -1,0 +1,3 @@
+strictfp class User {
+    
+}
